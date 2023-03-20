@@ -13,6 +13,8 @@ function add() {
 
   function sub(){
 
+let num1=parseInt(document.getElementById('num1').value)
+
 
 
 
