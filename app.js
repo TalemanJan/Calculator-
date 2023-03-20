@@ -18,7 +18,7 @@ let num2=parseInt(document.getElementById('num2').value)
 
 if(!isNaN(num1) && isNaN(num2)){
     let sub=num1-num2
-  
+    document.write(hello)
 }
 
 
