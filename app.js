@@ -16,9 +16,9 @@ function add() {
 let num1=parseInt(document.getElementById('num1').value)
 let num2=parseInt(document.getElementById('num2').value)
 
-if(!isNaN(num1) && isNaN(num2)){
+if(!isNaN(num1) && !isNaN(num2)){
     let sub=num1-num2
-    document.getElementById("result").innerHTML="Please enter valid numbers"
+    document.getElementById("result").innerHTML=sub
 }
 else{
 document.getElementById("result").innerHTML="Please enter valid numbers."
