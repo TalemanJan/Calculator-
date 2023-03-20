@@ -4,7 +4,8 @@ function add() {
   
     if (!isNaN(num1) && !isNaN(num2)) {
       let sum = num1 + num2;
-    }
+      document.getElementById("result").innerHTML = "Sum is: " + sum;
+    } 
   }
   
 
