@@ -67,6 +67,8 @@ else{
 
 
  function clearr(){
-
+document.getElementById("num1").value=" "
+document.getElementById("num2").value=""
+document.getElementById("result").innerHTML=" "
 
  }
