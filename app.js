@@ -27,7 +27,11 @@ document.getElementById("result").innerHTML="Please enter valid numbers."
 
 
  function multiply(){
- 
+  let num1=parseInt(document.getElementById('num1').value)
+
+
+
+
 
 
  }
