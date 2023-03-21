@@ -66,7 +66,7 @@ else{
  }
 
 
- function clear(){
+ function clearr(){
 
-  
+
  }
