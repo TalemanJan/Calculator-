@@ -64,3 +64,9 @@ else{
 
 
  }
+
+
+ function clear(){
+
+  
+ }
