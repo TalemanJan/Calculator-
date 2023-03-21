@@ -46,3 +46,12 @@ document.getElementById("result").innerHTML="Please enter valid numbers."
 
 
  }
+
+
+
+ function divide(){
+if(!isNaN(num1) && !isNaN(num2))
+
+
+
+ }
