@@ -72,3 +72,7 @@ document.getElementById("num2").value=""
 document.getElementById("result").innerHTML=" "
 
  }
+
+
+
+
